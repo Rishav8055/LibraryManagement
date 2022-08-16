@@ -2,10 +2,10 @@ package data;
 
 public class Book {
     private String title;
-    private int    yearOfPublication;
-    private String   isbnNo;
-    private String  author;
-    private String  name;
+    private int yearOfPublication;
+    private String isbnNo;
+    private String author;
+    private String name;
 
     public String getTitle() {
         return title;
